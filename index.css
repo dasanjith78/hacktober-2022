@@ -1,0 +1,22 @@
+.box
+{
+    width:  500px;
+    border: 5px solid brown;
+    margin-top: 30px;
+    background-color: burlywood;
+    color: black;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.header
+{
+    font-size: 40px;
+    color: brown;
+}
+
+.bodycont
+{
+    font-size: 20px;
+    padding-top: 20px;
+}
