@@ -1,3 +1,9 @@
+.nav-child
+{
+    display: flex;
+    justify-content: right;
+    
+}
 .box
 {
     width:  500px;
