@@ -1,1 +1,1 @@
-# hacktober-2022
+# Hacktober-2022
