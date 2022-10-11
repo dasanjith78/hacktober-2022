@@ -1,18 +1,32 @@
+h1 {
+  color: #ffffff;
+  font-family: arial, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 1px;
+}
 .bar
 {
     height: 10vh;
-    background-color: white;
-    
+      background-color: rgb(28, 26, 40);
+
+    width:100%;
     
 }
 
 .nav-child.nav-child
 {
-    display: flex;
-    justify-content: right;
-    padding-top: 40px;
-    padding-right: 40px;
+    font-size: 1.2rem;
+  display: flex;
+  justify-content: right;
+  padding-top: 20px;
+  padding-right: 40px;
     
+}
+.nav-child a {
+  text-decoration: none;
+  color: white;
 }
 .list
 {
