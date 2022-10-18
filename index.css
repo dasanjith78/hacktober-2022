@@ -1,7 +1,7 @@
 .bar
 {
     height: 10vh;
-    background-color: white;
+    background-color: purple;
     
     
 }
@@ -12,6 +12,8 @@
     justify-content: right;
     padding-top: 40px;
     padding-right: 40px;
+    background-color:black;
+    color:white;
     
 }
 .list
@@ -37,7 +39,7 @@
 .header
 {
     font-size: 40px;
-    color: brown;
+    color:black;
 }
 
 .bodycont
