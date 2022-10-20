@@ -28,7 +28,7 @@
 .box
 {
     width:  500px;
-    border: 5px solid brown;
+    border: 5px solid white;
     margin-top: 30px;
     background-color: burlywood;
     color: black;
@@ -48,7 +48,7 @@
     padding-top: 20px;
 }
 .para{
-  font-size: 50px;
+  font-size: 20px;
   color: white;
 
 }
